@@ -1,6 +1,6 @@
 astral==3.2
 babel==2.17.0
-cachetools==5.2.0
+cachetools==5.5.2
 cairocffi==1.4.0
 CairoSVG==2.5.2
 caldav==0.10.0
