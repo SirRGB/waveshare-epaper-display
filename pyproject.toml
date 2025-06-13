@@ -1,6 +1,6 @@
 [project]
 name = "waveshare-epaper-display"
-version = "0.1.0"
+version = "v13"
 description = "e-paper clock, calendar and weather forecast"
 authors = [
     {name = "mendhak",email = "mendhak@users.noreply.github.com"}
